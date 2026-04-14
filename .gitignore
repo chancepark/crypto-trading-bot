@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+grid_state.json
+state_*.json
+bot_state.json
+tg_offset.json
+trades.csv
+*.log
+venv/
+bot.py.save
+bot.py.save.1
